@@ -1,5 +1,5 @@
 # 🛍️ E-commerce Sales Dashboard – Power BI Project
-*Project by SHAIK DARVESH*
+*PROJECT BY  SHAIK DARVESH*
 
 ---
 
